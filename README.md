@@ -25,3 +25,6 @@ The principal curvature (PC) of a freeform surface, as an important indicator of
 3.  Copy the all files in `Examples\Referenced Assemblies\`to your Grasshopper library. Make sure to unblock all .dll and .gha files.
 
 `C:\Users\%UserName%\%Appdata%\Grasshopper\Libraries`
+
+## Maria Test
+1. Making a change to the readme file
